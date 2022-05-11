@@ -16,12 +16,12 @@
 <table style="border: none;" align="center">
     <tr style="padding: 0; margin: 0;">
         <th style="padding: 0; margin: 0;">
-            <img align="left"
+            <img align="center"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodoc&layout=compact&hide=css,html"
                     alt="melodoc" />
         </th>
         <th style="padding: 0; margin: 0;">
-            <img align="left"
+            <img align="center"
                     src="https://github-readme-stats.vercel.app/api?username=melodoc&show_icons=true&hide=contribs"
                     alt="melodoc" />
         </th>
