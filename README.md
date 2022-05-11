@@ -13,18 +13,20 @@
 </p>
 <p align="center">liubov_rz@yahoo.com</p>
 
-<p align="center">
-  <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodoc&layout=compact&hide=css,html"
-alt="melodoc"
-  />
-</p>
-<p align="center">
-  <img
-src="https://github-readme-stats.vercel.app/api?username=melodoc&show_icons=true&hide=contribs"
-alt="melodoc"
-  />
-</p>
+<table style="border: none;" align="center">
+    <tr style="padding: 0; margin: 0;">
+        <th style="padding: 0; margin: 0;">
+            <img align="left"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodoc&layout=compact&hide=css,html"
+                    alt="melodoc" />
+        </th>
+        <th style="padding: 0; margin: 0;">
+            <img align="left"
+                    src="https://github-readme-stats.vercel.app/api?username=melodoc&show_icons=true&hide=contribs"
+                    alt="melodoc" />
+        </th>
+    </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=melodoc" alt="melodoc" />
