@@ -1,17 +1,15 @@
 <h1 align="center">Hi there 👋 </h1>
 
-<h2 align="center">🚀 My name is Liubov</h2>
+<p align="center"> My name is Liubov 🚀 I'm a 28 y.o. frontend developer. Currently in Batumi, Georgia 🇬🇪</p>
 <p align="center">
-   I'm a 28 y.o. frontend developer.
+   
 </p>
-<p align="center">
-  Currently in Batumi, Georgia 🇬🇪
-</p>
+
 <h3 align="center">📫 How to reach me</h3>
-<p align="center">
+<div align="center">
   <a href="https://t.me/melodoc_me">telegram</a>
+   <span align="center">liubov_rz@yahoo.com</span>
 </p>
-<p align="center">liubov_rz@yahoo.com</p>
 
 <table style="border: none;" align="center">
     <tr style="padding: 0; margin: 0;">
