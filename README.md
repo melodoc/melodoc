@@ -14,6 +14,8 @@
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodoc&layout=compact&hide=css,html,php,procfile"
         alt="melodoc" />
+</p>
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=melodoc&show_icons=true&hide=contribs"
         alt="melodoc" />
 </p>
