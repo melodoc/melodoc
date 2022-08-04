@@ -2,7 +2,7 @@
 
 
 - 🌱 &nbsp;I'm a frontend developer. Currently in Batumi, Georgia 🇬🇪
-- 🔭 &nbsp;I’m currently working on some cool platform :wink:
+- 🔭 &nbsp;I’m working on some cool platform :wink:
 - 📫 &nbsp;How to reach me: 📲 <a href="https://t.me/melodoc_me">telegram</a> 📩 <span> liubov_rz@yahoo.com</span>
 
 <div>
