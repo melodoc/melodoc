@@ -18,7 +18,7 @@
       <td>
         <img
           align="center"
-          src="https://github-readme-stats.vercel.app/api?username=melodoc&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true"
+          src="https://github-readme-stats.vercel.app/api?username=melodoc&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&hide=contribs"
           alt="melodoc"
         />
       </td>
@@ -30,7 +30,7 @@
 <div align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodoc&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=css,html,php,procfile"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodoc&layout=compact&show_icons=true&theme=blue-green&hide_border=true&hide=css,html,php,procfile"
     alt="melodoc"
   />
 </div>
