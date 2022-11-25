@@ -4,43 +4,20 @@
 - 🔭 &nbsp;I’m working on some cool platform :wink:
 - 📫 &nbsp;How to reach me: 📲 <a href="https://t.me/melodoc_me">telegram</a> 📩 <span> liubov_rz@yahoo.com</span>
 
-<div>
-<table align="left">
-  <tbody>
-    <tr>
-      <td>
-        <img
-          align="center"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=melodoc&theme=blue-green&hide_border=true"
-          alt="melodoc"
-        />
-      </td>
-      <td>
-        <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api?username=melodoc&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&hide=contribs"
-          alt="melodoc"
-        />
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
 <div align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodoc&layout=compact&show_icons=true&theme=blue-green&hide_border=true&hide=css,html,php,procfile"
-    alt="melodoc"
-  />
+    <img align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=melodoc&theme=blue-green&hide_border=true"
+        alt="melodoc" />
 </div>
-
-<p></p>
-
+<br>
+<div align="center">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=melodoc&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&hide=contribs"
+        alt="melodoc" />
+</div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=melodoc" alt="melodoc" />
+    <img src="https://komarev.com/ghpvc/?username=melodoc" alt="melodoc" />
 </p>
-
 
 <details>
   <summary><b>💻&nbsp;&nbsp;Tech&nbsp;Stack</b></summary>
