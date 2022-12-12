@@ -1,24 +1,8 @@
 <h3 align="left">Hi there 💫 I am Liubov </h3>
 
 - 🌱 &nbsp;I'm a frontend developer. Currently in Batumi, Georgia 🇬🇪
-- 🔭 &nbsp;I’m working on some cool platform :wink:
+- 🔭 &nbsp;I’m working on [some cool platform](https://github.com/melodoc/frontera-fe) :wink:
 - 📫 &nbsp;How to reach me: 📲 <a href="https://t.me/melodoc_me">telegram</a> 📩 <span> liubov_rz@yahoo.com</span>
-
-<div align="center">
-    <img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=melodoc&theme=blue-green&hide_border=true"
-        alt="melodoc" />
-</div>
-<br>
-<div align="center">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=melodoc&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&hide=contribs"
-        alt="melodoc" />
-</div>
-<br>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=melodoc" alt="melodoc" />
-</p>
 
 <details>
   <summary><b>💻&nbsp;&nbsp;Tech&nbsp;Stack</b></summary>
