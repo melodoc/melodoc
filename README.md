@@ -1,7 +1,7 @@
 <h3 align="left">Hi there 💫 I am Liubov </h3>
 
 - 🌱 &nbsp;I'm a frontend developer
-- 🔭 &nbsp;I’m working on [some cool platform](https://github.com/melodoc/frontera-fe) :wink:
+- 🔭 &nbsp;I’m working on some cool platform :wink:
 - 📫 &nbsp;How to reach me: 📲 <a href="https://t.me/melodoc_me">telegram</a> 📩 <span> liubov_rz@yahoo.com</span>
 
 <details>
