@@ -2,7 +2,7 @@
 
 - 🌱 &nbsp;I'm a frontend developer
 - 🔭 &nbsp;I’m working on some cool platform :wink:
-- 📫 &nbsp;How to reach me: 📲 <a href="https://t.me/melodoc_me">telegram</a> 📩 <span> liubov_rz@yahoo.com</span>
+- 📫 &nbsp;How to reach me: 📲 <a href="https://t.me/imelodoc">telegram</a> 📩 <span> liubov_rz@yahoo.com</span>
 
 <details>
   <summary><b>💻&nbsp;&nbsp;Tech&nbsp;Stack</b></summary>
